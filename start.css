@@ -21,7 +21,7 @@ body {
     display: flex;
     
     
-    background-color: #3e8d3d;
+    background-color: #92BCEA;
     
     font-family: "Josefin Sans", sans-serif;
     font-weight: 500;
@@ -54,7 +54,7 @@ body {
 
     &:hover {
         background-color: rgb(255, 240, 243);
-        color: #3e8d3d;
+        color: #92BCEA;
     }
 }
 /* *****************Slänga skräp*******************************' */
