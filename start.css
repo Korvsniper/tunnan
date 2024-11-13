@@ -21,7 +21,8 @@ body {
     display: flex;
     
     
-    background-color: #92BCEA;
+    
+    background-color: #1b5340;
     
     font-family: "Josefin Sans", sans-serif;
     font-weight: 500;
@@ -54,7 +55,8 @@ body {
 
     &:hover {
         background-color: rgb(255, 240, 243);
-        color: #92BCEA;
+        color: #114232;
+        
     }
 }
 /* *****************Slänga skräp*******************************' */
@@ -126,7 +128,7 @@ padding: 1rem;
 
 .bin__info > *:first-child {
     margin-top: 0;
-    /* background-color: #b5b5b5; */
+    /* background-color: #8AF8B6; */
 }
 
 .bin img{
@@ -134,7 +136,7 @@ height: 400px;
 }
 
 .bin{
-    background-color: #b5b5b5;
+    background-color: #e7ecd5;
     
 }
 
