@@ -159,7 +159,16 @@ const bin77 = L.marker([58.7520674, 17.0242013], { icon: soppicon }).addTo(allBi
 const bin78 = L.marker([58.7519911, 17.0232534], { icon: soppicon }).addTo(allBins);
 const bin79 = L.marker([58.7518822, 17.0212293], { icon: soppicon }).addTo(allBins);
 const bin80 = L.marker([58.7523677, 17.0184598], { icon: soppicon }).addTo(allBins);
-const bin81 = L.marker([58.7531843, 17.0216572], { icon: soppicon }).addTo(allBins);
+const bin81 = L.marker([58.7531843, 17.0216572], { icon: soppicon }).addTo(allBins); 
+
+
+const bin90 = L.marker([58.753327, 17.000109], { icon: soppicon }).addTo(allBins); 
+const bin91 = L.marker([58.753639, 17.000850], { icon: soppicon }).addTo(allBins); 
+const bin92 = L.marker([58.752939, 17.002625], { icon: soppicon }).addTo(allBins); 
+const bin93 = L.marker([58.753328, 17.003966], { icon: soppicon }).addTo(allBins); 
+const bin94 = L.marker([58.756775, 17.015254], { icon: soppicon }).addTo(allBins); 
+
+
 
 
 
