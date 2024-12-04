@@ -65,44 +65,7 @@ body {
 }
 
 /* *****************Slänga skräp*******************************' */
-.fusk {
-    /* background-color: rgba(133, 129, 123, 0.651); */
-    height: calc(100% - 2rem);
-    max-width: 60ch;
-    padding: 1rem;
 
-    margin: 1rem;
-}
-
-.Om1 {
-    display: grid;
-    grid-template-columns: 1fr;
-    color: white;
-    line-height: 1.5;
-    font-size: 18px;
-    font-family: "Nunito", sans-serif;
-}
-
-.Om1 h2 {
-    font-size: 40px;
-    font-family: "Josefin Sans", sans-serif;
-    margin: 0;
-}
-
-.Om1>* {
-    height: 100vh;
-}
-
-.Om1 .Omoss1 {
-    background-size: cover;
-    margin: 0;
-    padding: 0;
-}
-
-
-
-
-/* **************Om Oss******************** */
 
 .fusk1 {
     background-color: rgba(133, 129, 123, 0.651);
