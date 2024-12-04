@@ -167,6 +167,7 @@ const bin91 = L.marker([58.753639, 17.000850], { icon: soppicon }).addTo(allBins
 const bin92 = L.marker([58.752939, 17.002625], { icon: soppicon }).addTo(allBins); 
 const bin93 = L.marker([58.753328, 17.003966], { icon: soppicon }).addTo(allBins); 
 const bin94 = L.marker([58.756775, 17.015254], { icon: soppicon }).addTo(allBins); 
+const bin95 = L.marker([58.755237, 17.012413], { icon: soppicon }).addTo(allBins); 
 
 
 
