@@ -15,11 +15,13 @@ body {
     font-family: "Biryani", serif;
     font-weight: 400;
     font-style: normal;
+    font-size: larger;
+
 
 }
 
 .om__text {
-    font-size: larger;
+    /* font-size: larger; */
 
     padding-bottom: 6rem;
 
@@ -33,7 +35,7 @@ body {
         padding-left: 2rem;
     }
 
-    h5{
+    h5 {
         padding: 1rem 2rem 0.5rem 2rem;
     }
 }
