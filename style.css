@@ -10,7 +10,6 @@ body {
 
     min-height: 100dvh;
 
-    /* font-family:Georgia, 'Times New Roman', Times, serif;  */
     background-color: #e7ecd5;
 
     font-family: "Biryani", serif;
@@ -20,8 +19,6 @@ body {
 }
 
 .om__text {
-    /* background-color: #8AF8B6; */
-
     font-size: larger;
 
     padding-bottom: 6rem;
@@ -34,6 +31,10 @@ body {
 
     h1 {
         padding-left: 2rem;
+    }
+
+    h5{
+        padding: 1rem 2rem 0.5rem 2rem;
     }
 }
 
@@ -67,12 +68,6 @@ body {
 
 
 
-
-
-
-
-
-
 .wrapper {
     position: relative;
     z-index: 999;
@@ -85,15 +80,9 @@ body {
     background-color: #114232;
 
 
-
     font-family: "Special Elite", serif;
     font-weight: 400;
     font-style: normal;
-
-
-    /* font-family: "Josefin Sans", sans-serif;
-    font-weight: 500;
-    font-style: normal; */
 
     position: absolute;
     bottom: 0;

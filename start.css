@@ -1,4 +1,6 @@
-*, *::after, *::before {
+*,
+*::after,
+*::before {
     box-sizing: border-box;
 }
 
@@ -7,27 +9,29 @@ body {
     padding: 0;
 
     min-height: 100dvh;
- width: 100%;
+    width: 100%;
     display: grid;
     grid-template-rows: 1fr auto;
-}
- 
 
-.wrapper{
+    font-family: "Biryani", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.wrapper {
     position: relative;
 }
 
 .globalnav {
     display: flex;
-    
-    
-    
+
     background-color: #1b5340;
-    
-    font-family: "Josefin Sans", sans-serif;
-    font-weight: 500;
+
+    font-family: "Special Elite", serif;
+    font-weight: 400;
     font-style: normal;
-    
+
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -56,9 +60,10 @@ body {
     &:hover {
         background-color: rgb(255, 240, 243);
         color: #114232;
-        
+
     }
 }
+
 /* *****************Slänga skräp*******************************' */
 .fusk {
     /* background-color: rgba(133, 129, 123, 0.651); */
@@ -69,7 +74,7 @@ body {
     margin: 1rem;
 }
 
-.Om1{
+.Om1 {
     display: grid;
     grid-template-columns: 1fr;
     color: white;
@@ -84,7 +89,7 @@ body {
     margin: 0;
 }
 
-.Om1 > * {
+.Om1>* {
     height: 100vh;
 }
 
@@ -93,7 +98,6 @@ body {
     margin: 0;
     padding: 0;
 }
-
 
 
 
@@ -108,41 +112,41 @@ body {
     margin: 1rem;
 }
 
-article.bin{
+article.bin {
     display: grid;
-    grid-template-columns:1fr 1fr ;
+    grid-template-columns: 1fr 1fr;
     /* gap: 1rem; */
-  
+
 
 
 }
 
-article img{
+article img {
     width: 100%;
 }
 
-.bin__info{
-width: 100%;
-padding: 1rem;
+.bin__info {
+    width: 100%;
+    padding: 1rem;
 }
 
-.bin__info > *:first-child {
+.bin__info>*:first-child {
     margin-top: 0;
     /* background-color: #8AF8B6; */
 }
 
-.bin img{
-height: 400px;
+.bin img {
+    height: 400px;
 }
 
-.bin{
+.bin {
     background-color: #e7ecd5;
-    
+
 }
 
 
 
-.hej{
+.hej {
     padding-bottom: 5.4rem;
-    
+
 }
