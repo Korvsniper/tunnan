@@ -64,6 +64,7 @@ const atervinning15 = L.marker([58.744424, 17.021671], { icon: atervining }).add
 const atervinning16 = L.marker([58.742550, 17.006638], { icon: atervining }).addTo(allAtervinning);
 const atervinning17 = L.marker([58.729607, 17.012929], { icon: atervining }).addTo(allAtervinning);
 const atervinning18 = L.marker([58.727895, 17.022586], { icon: atervining }).addTo(allAtervinning);
+const atervinning19 = L.marker([58.711804, 16.994222], { icon: atervining }).addTo(allAtervinning);
 
 
 
